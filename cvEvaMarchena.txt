@@ -1,1 +1,1 @@
-1º versión del currículum en la rama máster
+2º versión del currículum en la rama gh-pages
